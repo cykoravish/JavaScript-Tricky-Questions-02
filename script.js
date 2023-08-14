@@ -257,12 +257,3 @@
 //48
 // let for = 100;
 // // console.log(for)
-
-//49
-// function fruit() {
-//   console.log(name);
-//   console.log(price);
-//   var name = "apple";
-//   let price = 20;
-// }
-// fruit();
